@@ -430,7 +430,7 @@ spec:
 > section.
 
 ```console
-kubectl crossplane install configuration registry.upbound.io/xp/getting-started-with-azure:v1.7.0
+kubectl-crossplane install configuration registry.upbound.io/xp/getting-started-with-azure:v1.7.0
 ```
 
 Wait until all packages become healthy:
